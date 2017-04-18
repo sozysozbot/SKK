@@ -718,7 +718,7 @@ xirofü	拾う(<ひりふ)
 xirói	広い
 xirú	昼
 xirugáferu	翻る(?: ヒ/ヘ)
-xisago	瓠(ひさご)(?: ヒ/ゴ)
+xisagaw	瓠(ひさご)(?: ヒ/ゴ)
 xisasíi	久しい
 xísoka	密か(?: ヒ/ソ)
 xitaburu	ひたぶる
